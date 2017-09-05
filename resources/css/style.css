@@ -1,0 +1,55 @@
+body {
+    font-family: Helvetica;
+    text-align: center;
+    background-color: white;
+  }
+
+h1{
+  text-align: center;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2{
+  font-weight:bold;
+}
+
+.MainBanner {
+  font-family: Helvetica;
+  color: white;
+  text-align: center;
+  background-image: url("/Users/Tom/PROJECTS/broadway/resources/photos/the-flatiron-building.png");
+}
+
+.SecondBanner {font-family: Helvetica;
+color: white;
+text-align: center;
+background-image: url("/Users/Tom/PROJECTS/broadway/resources/photos/the-flatiron-building.png");
+}
+
+.footer {font-family: Helvetica;
+color: white;
+text-align: left;
+background-color: dimgray;
+}
+
+.copyright {
+  font-size: 11px;
+  color: white;
+}
+
+
+.MainBanner p {
+  font-size: 18px;
+  font-weight: bold;
+  color: white
+}
+
+.header h2 {
+  font-size: 32px;
+}
+
+.header p {
+  font-size: 14px;
+}
